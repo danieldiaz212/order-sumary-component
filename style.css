@@ -25,6 +25,8 @@ body {
 #change {
   color: hsl(245, 75%, 52%);
   font-size: 0.7rem;
+    margin-right: 6% ;
+
 }
 
 #contenedor {
